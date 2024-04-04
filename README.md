@@ -24,7 +24,7 @@
 
 **What I Am Currently Working On//Learning**
 
-I am currently working on developing a windows program that can be used to control drones. This program implements the use of the MAVLink protocol, of which is used by open-source ground control software [Mission Planner](https://ardupilot.org/planner/) and [QGroundControl](http://qgroundcontrol.com/)
+I am currently working on developing a windows program that can be used to control drones. This program implements the use of the MAVLink protocol, of which is used by open-source ground control software such as [Mission Planner](https://ardupilot.org/planner/) and [QGroundControl](http://qgroundcontrol.com/)
 <br>
 <br>
 The idea of this project was to not only learn how to use the [MAVLink](https://mavlink.io/en/) APIs, but to also understand and apply the concepts of both the MVVM (Model-View-ViewModel) pattern and the relatively new open-source cross-platform UI framework [Avalonia](https://avaloniaui.net/). Last but not least, it was also an important avenue that exposed me to the world of GitHub.
