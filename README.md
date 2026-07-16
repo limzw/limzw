@@ -34,8 +34,7 @@ A full-stack project that integrates the Telegram APIs in a ASP.NET Core backend
 The objective of this project is to learn more about full-stack development, in particular API design to faciliate interactions between the frontend/mobile client and backend as well as data persistence using databases. I also intend to delve into DevOps, with cloud deployment using services such as AWS being the first step.
 <br>
 <br>
-That being said, the repositories for these projects are currently private, but should you be interested in finding out more about what i have done so far, please feel free to contact me at my email address. It would also definitely be great if i could find a team of interested developers to work on this with!
-
+The repository for the ASP.NET Core backend is now public! It is still currently being worked on so any feedback is greatly appreciated!
 <!--
 **limzw/limzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
